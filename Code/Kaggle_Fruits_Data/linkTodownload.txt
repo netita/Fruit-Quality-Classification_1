@@ -1,0 +1,1 @@
+ddownload from here: [https://github.com/netita/FruitNet_Data](https://github.com/netita/Kaggle_Fruits_Data)
